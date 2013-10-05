@@ -193,7 +193,7 @@
                     'width' : '',
                     'position' : originalPosition,
                     'left' : '',
-                    'top' : originalOffset.top,
+                    'top' : -originalOffset.top,
                     'margin-left' : ''
                 });
 
